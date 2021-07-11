@@ -1,4 +1,4 @@
-# Charbot-Task3
+# Chatbot-Task3
 
 Smart methods training task 2
 ( This project contains six files to achieve the first task in the project )
