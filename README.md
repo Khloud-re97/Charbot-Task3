@@ -1,5 +1,5 @@
 # Charbot-Task3
-# Robot-Arm-Task2
+
 Smart methods training task 2
 ( This project contains six files to achieve the first task in the project )
 # 1- HTML File:
